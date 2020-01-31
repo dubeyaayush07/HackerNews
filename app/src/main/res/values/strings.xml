@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HackerNews</string>
+    <string name="detail_string">%1$s by %2$s </string>
+    <string name="new_stories">NEW</string>
+    <string name="top_stories">TOP</string>
+
+</resources>
